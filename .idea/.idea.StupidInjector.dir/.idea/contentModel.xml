@@ -16,6 +16,7 @@
         <e p="Dog.cs" t="Include" />
       </e>
       <e p="Program.cs" t="Include" />
+      <e p="README.md" t="Include" />
       <e p="StupidContainer.cs" t="Include" />
       <e p="StupidInjector.csproj" t="IncludeRecursive" />
       <e p="bin" t="ExcludeRecursive" />
