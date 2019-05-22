@@ -1,0 +1,11 @@
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/bin/Debug/netcoreapp2.1/StupidInjector.deps.json
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/bin/Debug/netcoreapp2.1/StupidInjector.runtimeconfig.json
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/bin/Debug/netcoreapp2.1/StupidInjector.runtimeconfig.dev.json
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/bin/Debug/netcoreapp2.1/StupidInjector.dll
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/bin/Debug/netcoreapp2.1/StupidInjector.pdb
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.csprojAssemblyReference.cache
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.csproj.CoreCompileInputs.cache
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.AssemblyInfoInputs.cache
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.AssemblyInfo.cs
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.dll
+/home/tjaart/projects/personal/StupidInjector/StupidInjector/obj/Debug/netcoreapp2.1/StupidInjector.pdb
