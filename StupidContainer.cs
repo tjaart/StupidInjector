@@ -24,7 +24,6 @@ namespace StupidInjector
             _registrations[typeof(TConcrete)]= typeof(TConcrete);
         }
 
-
         public object GetInstance(Type t)
         {
             if (!_registrations.ContainsKey(t))
@@ -63,7 +62,6 @@ namespace StupidInjector
 
                 constructorParameterTypes.Add(parameterInfo.ParameterType);
             }
-
 
             foreach (var constructorParameterType in constructorParameterTypes)
             {
